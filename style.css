@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 150px;
+    background-color: rgb(12, 11, 11);
+    color: white; 
+    font-family: 'Noto Serif JP', serif;
+    height: 100vh;
+    margin-left: 500px;
+}
+#head,#round{
+    font-size: 15px;
+    font-family: 'Noto Serif JP', serif;
+    letter-spacing: 5px;
+}
+#commonTime,#numberOfRounds{
+    font-size: 45px;
+    margin: 0;
+    font-family: 'Noto Serif JP', serif;
+    letter-spacing: 5px;
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+    color: white; 
+    font-family: 'Noto Serif JP', serif;
+}
+button{
+    padding: 10px;
+    margin-top: 15px; 
+    background-color: rgb(12, 11, 11);
+    width: 40%;
+    border: 1px solid white;
+    letter-spacing: 5px;
+}
