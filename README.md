@@ -15,11 +15,11 @@
 
 ![Tabata timer](01.png)
 
-<h3>Contributing</h3>
-Bug reports and/or pull requests are welcome.
-
 <h3>Usage</h3>
 Push the button "Старт" and enjoy your training
+
+<h3>Contributing</h3>
+Bug reports and/or pull requests are welcome.
 
 -----
 
